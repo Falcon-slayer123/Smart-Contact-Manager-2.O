@@ -11,7 +11,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 	{
-		System.out.println("**********SCM2.0 STARTS*********");
 	}
 
 
